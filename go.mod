@@ -1,4 +1,4 @@
-module github.com/jh125486/CSCE4600
+module github.com/HO4678/ProcessScheduling
 
 go 1.19
 
