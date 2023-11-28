@@ -1,6 +1,6 @@
 module github.com/HO4678/ProcessScheduling
 
-go 1.19
+go 1.21.3
 
 require (
 	github.com/olekukonko/tablewriter v0.0.5
